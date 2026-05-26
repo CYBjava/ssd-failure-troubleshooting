@@ -11,4 +11,4 @@ After Windows failed to format a USB, the PC would crash frequently after removi
 
 <h2>Documentation:</h2>
 
-()
+(https://github.com/CYBjava/ssd-failure-troubleshooting/blob/main/Alvarez_SSD_RL.docx)
